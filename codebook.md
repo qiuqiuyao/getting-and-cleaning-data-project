@@ -2,6 +2,7 @@
 ### Identifiers
 * subjected: id number for each subject in the experiment; factor variable range 1-30
 * activityid: id number for six activities of daily living; factor variable range 1-6; 1=walking 2=walking_upstars 3=warlking_downstairs 4=sitting 5=standing 6=laying
+
 ### Average value of the following measurements for each subject and activity
 * timeBodyAcc-mean-X--timeBodyAcc-std-Z: mean and standard deviation of time-domain body acceleration signal
 * timeGravityAcc-mean-X--timeGravityAcc-std-Z: mean and standard deviation of time-domain gravity acceleration signal
